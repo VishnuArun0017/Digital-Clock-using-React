@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://external-preview.redd.it/1RnvJ_tfCQwLOCU6Ur_ivmFc6c5btneUO9iN5O1334E.png?width=640&crop=smart&format=pjpg&auto=webp&s=235c5c7a9ea9e949a5079d7a46ff7219991db6e6");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clockcont {
+  width: 100px;
+  padding: 10px 0;
+}
+.clock {
+  color: white;
+  font-size: 100px;
+  padding: 200px;
+  font-weight: 300;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: black;
+}
